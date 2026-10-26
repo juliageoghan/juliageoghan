@@ -2,5 +2,7 @@ resume.md
 
 Julia Geoghan
 
-Northeastern University (2026-present)
-BS in Cybersecurity and Criminal Justice
+##Education
+**Northeastern University**, Khoury College of Computer Science
+*Bachelor of Science in Cybersecurity and Criminal Justice
+Boston, MA ~ Sep 2026 - present
